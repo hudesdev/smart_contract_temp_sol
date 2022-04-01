@@ -1,5 +1,5 @@
 [package]
-name = "contract1"
+name = "store-back"
 version = "0.1.0"
 edition = "2021"
 

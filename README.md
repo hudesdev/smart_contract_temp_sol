@@ -12,7 +12,7 @@ Here are all supported commands:
   * `get-store <Store pubkey>` - get info about store;
   * `get-product <Product pubkey>` - get info about product;
   * `make-store <Store name>` - make store;
-  * `add-to-store <Store name> <Product name> <Price in lamports>` - add to store some product with specific price;
+  * `add-to-store <Store name> <Product name> <Price in lamports>` - add to store some product;
   * `delete-from-store <Store name> <Product name>` - delete product from store;
   * `buy <Store pubkey> <Product name>` - buy some product;
   * `close <Store name>` - close the shop;
